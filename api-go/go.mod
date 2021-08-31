@@ -7,7 +7,7 @@ require (
 	cloud.google.com/go/storage v1.14.0
 	github.com/golang/protobuf v1.5.1 // indirect
 	github.com/google/go-github/v33 v33.0.1-0.20210311004518-0540c33dca8b
-	github.com/schollz/progressbar/v3 v3.8.1
+	github.com/schollz/progressbar/v3 v3.8.2
 	golang.org/x/net v0.0.0-20210326220855-61e056675ecf // indirect
 	golang.org/x/oauth2 v0.0.0-20210220000619-9bb904979d93
 	google.golang.org/api v0.41.0 // indirect
